@@ -1,5 +1,11 @@
 # Ubuntu
 ### Solutions of some problems
+
+##### Codeblocks Auto Indentation problem
+`http://askubuntu.com/questions/438747/auto-indentation-not-working-in-code-blocks-13-12-svn-9636`
+> sudo apt-get install codeblocks-contrib
+
+
 ####### DPKG
 
 `Link: http://ubuntuforums.org/showthread.php?t=1894744`
